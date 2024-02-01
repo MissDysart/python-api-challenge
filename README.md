@@ -20,7 +20,7 @@ Part 2: VacationPy
 
 Pretend to plan a future vacation with the city data found in Part 1.
 1. Open the data set created in Part 1.
-2. Create a map of the cities as directed.
+2. Create a map of the cities as directed. (Screenshots/Screenshot_VacaPy.png)
 3. Narrow the number of cities down to fit your ideal weather conditions and remove any rows with null values.
 4. Create a new DataFrame so that you can use Geoapify to find a hotel to stay.
-5. Create a new map that includes the country and hotels found.
+5. Create a new map that includes the country and hotels found. (Screenshots/Screenshot_hotels.png)
